@@ -1,0 +1,14 @@
+.chatNewMessage {
+    background: white;
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.chatNewMessage input {
+    flex: 1;
+    border: 0;
+    border-top: 1px solid #ddd;
+}

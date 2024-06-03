@@ -1,0 +1,14 @@
+.joinChat {
+    background: white;
+    position: fixed;
+    padding: 20px;
+    width: 40vw;
+    height: 80vh;
+    top: 0;
+    left: 30vw;
+}
+
+.joinChat input,
+.joinChat select {
+    margin-bottom: 6px;
+}

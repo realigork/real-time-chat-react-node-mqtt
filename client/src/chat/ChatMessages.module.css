@@ -1,0 +1,27 @@
+.chatMessages {
+    position: relative;
+    height: 400px;
+    padding-bottom: 40px;
+    overflow: auto;
+}
+
+.chatMessage {
+    padding: 5px 0;
+    position: relative;
+}
+
+.chatMessageContent {
+    max-width: 85%;
+}
+
+.chatMessageText {
+    display: block;
+}
+
+.chatMessageDate {
+    color: #aaa;
+    position: absolute;
+    right: 0;
+    top: 5px;
+    font-size: 0.8em;
+}
